@@ -79,14 +79,6 @@ $ python3 run.py -cnn
 🔘2. Publish the collected ECG datasets in real environments (including ECG in various motion states and at rest).
 
 
-# Cite
-```
-@article{chen2023bioauecg
-      title={BioAuECG: Biometric Authentication using Electrocardiogram, source code}, 
-      author={Junhao Chen and Xiaojun Ye and Xiang Li and Chao Li and Peng Rong and Jingbo Sun and Hongwu Lv},
-      year={2023},
-      link={https://github.com/yisuanwang/BioAuECG}
-}
 
 ```
 
